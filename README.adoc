@@ -1,0 +1,32 @@
+# session-abstracts
+= Abstracts for topics in my current repertoire
+
+== Maintainer
+* Jennifer Reif
+** Contact info -
+*** Email: jennifer.reif@neo4j.com
+*** Personal email: jennifer@thehecklers.org
+*** Twitter: @JMHReif
+
+== Purpose
+In this repository are a list of session topics I am able to deliver.
+Session Formats:
+* Conference and meetup sessions for varying lengths between 30 and 60 minutes
+
+== Repository session formats
+Each session abstract is formatted as an Asciidoc document (.adoc extension), which can be opened in any plain text editor.
+
+== Notes
+
+== Speaker Information
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
+
+== Photo
+https://drive.google.com/file/d/1M1BQ4bs7XdAHiYRTGEBHId1n3-PFb-Xf/view?usp=sharing[Click here to view/download photo]
+
+== Contact me
+* https://medium.com/@jennifer.reif[Personal blog on Medium]
+* mailto:jennifer@thehecklers.org[Email me at jennifer@thehecklers.com]

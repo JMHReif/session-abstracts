@@ -1,0 +1,19 @@
+= Investigating Complex Data Relationships Through Graphs
+
+== Subtitles
+1. Why Averages Fail and Graph Models Work
+2. Groups and Paths and Flows - Oh My!
+
+== Abstract
+Learn how graph algorithms can help you predict real-world behavior and why an averages approach fails to describe group dynamics.
+We will start with an overview of which algorithms in Neo4j to apply for various types of optimal paths, influence in a network, and community detection.
+We will also discuss use cases that span across industries including recommendations, resiliency planning, fraud prevention, and traffic engineering/routing (such as IP and call).
+This will come alive through a live demo, where we look at what kinds of information you can retrieve and decisions you can make based on results from different algorithms and sets of data.
+From this session, you will gain the knowledge to recognize whether you have a graph analytics problem and how you can get started.
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
+She is excited to begin her position at Neo4j and increase her breadth and depth of knowledge!

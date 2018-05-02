@@ -1,0 +1,17 @@
+= Investigating Complex Data Relationships Through Graphs
+
+== Abstract
+In this connected world we live in, traditional data stores often make it rather difficult to find valuable relationships in your data.
+By making relationships first class citizens in the data model (and storing your data exactly as you'd whiteboard it), contextualizing a set of data becomes incredibly simple.
+In this session, an engineer from Neo4j (http://www.neo4j.com/), the world's leading graph database, will walk through what a graph database is, and how it can transform your applications.
+She will go over creating, querying, and displaying data, and give you the tools needed to use the graph.
+She will also review the Panama Papers/Paradise Papers use case.
+There is also a demo with some of the data in the Paradise Papers and information on how to explore the data for yourself!
+Join us to learn how graph databases were used to identify key names in the biggest leaks and the largest cross-border investigation in journalism history with over 13.4 million documents!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
+She is excited to begin her position at Neo4j and increase her breadth and depth of knowledge!
