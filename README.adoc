@@ -25,8 +25,8 @@ She has worked with a variety of commercial and open source tools and enjoys lea
 Her passion is finding ways to organize chaos and deliver software more effectively.
 
 == Photo
-https://drive.google.com/file/d/1M1BQ4bs7XdAHiYRTGEBHId1n3-PFb-Xf/view?usp=sharing[Click here to view/download photo]
+https://drive.google.com/file/d/1M1BQ4bs7XdAHiYRTGEBHId1n3-PFb-Xf/view?usp=sharing[Click here to view/download photo^]
 
 == Contact me
-* https://medium.com/@jennifer.reif[Personal blog on Medium]
-* mailto:jennifer@thehecklers.org[Email me at jennifer@thehecklers.com]
+* https://medium.com/@jennifer.reif[Personal blog on Medium^]
+* mailto:jennifer@thehecklers.org[Email me at jennifer@thehecklers.com^]
