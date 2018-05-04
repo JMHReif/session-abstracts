@@ -1,4 +1,4 @@
-= Investigating Complex Data Relationships Through Graphs
+= Graph Algorithms: Predict Real-World Behavior
 
 == Subtitles
 1. Why Averages Fail and Graph Models Work
@@ -16,4 +16,3 @@ Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, bl
 She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
 She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
 Her passion is finding ways to organize chaos and deliver software more effectively.
-She is excited to begin her position at Neo4j and increase her breadth and depth of knowledge!
