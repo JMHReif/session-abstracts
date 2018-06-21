@@ -1,7 +1,7 @@
 = Getting Graphic: Using Neo4j with Spring Data
 
 == Formats
-* presented as solo speaker or co-presenting with https://github.com/mkheck[Mark Heckler^]
+* can present as solo speaker or co-present with https://github.com/mkheck[Mark Heckler^]
 
 == Abstract
 Many of us have a great deal of experience working with traditional relational databases, and with so-called NoSQL databases (both document stores & key/value pairs) as well. Graph databases provide capabilities that we may not have fully leveraged...yet.
