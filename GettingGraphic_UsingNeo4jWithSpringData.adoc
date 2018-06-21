@@ -1,0 +1,15 @@
+= Getting Graphic: Using Neo4j with Spring Data
+
+== Formats
+* presented as solo speaker or co-presenting with https://github.com/mkheck[Mark Heckler^]
+
+== Abstract
+Many of us have a great deal of experience working with traditional relational databases, and with so-called NoSQL databases (both document stores & key/value pairs) as well. Graph databases provide capabilities that we may not have fully leveraged...yet.
+Come to this session to learn how to exploit the power of Neo4j quickly and powerfully using Spring Boot and Spring Data. The presenters will explain the types of data that benefit most from a graph database, then live-code a system of Spring Boot+Spring Data microservices to demonstrate how to really USE it.
+Learn how to elevate the relationships *among your data* to the same level *as* your data and tap the full power of Spring Data & Neo4j!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
