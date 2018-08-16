@@ -1,11 +1,16 @@
-= Getting Graphic: Using Neo4j with Spring Data
+= Getting Graphic: Using Neo4j & Spring Data to extract maximum value from your data
+
+== Alternate Titles
+* Getting Graphic: Extract maximum value from your data using Neo4j and Spring Data
 
 == Formats
 * can present as solo speaker or co-present with https://github.com/mkheck[Mark Heckler^]
 
 == Abstract
 Many of us have a great deal of experience working with traditional relational databases, and with so-called NoSQL databases (both document stores & key/value pairs) as well. Graph databases provide capabilities that we may not have fully leveraged...yet.
+
 Come to this session to learn how to exploit the power of Neo4j quickly and powerfully using Spring Boot and Spring Data. The presenters will explain the types of data that benefit most from a graph database, then live-code a system of Spring Boot+Spring Data microservices to demonstrate how to really USE it.
+
 Learn how to elevate the relationships *among your data* to the same level *as* your data and tap the full power of Spring Data & Neo4j!
 
 == Speaker Bio

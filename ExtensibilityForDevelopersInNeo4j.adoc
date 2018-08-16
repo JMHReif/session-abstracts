@@ -1,13 +1,18 @@
-= Extensibility for Java Developers in Neo4j
+= Extensibility for Developers in Neo4j
+
+== Alternate Titles
+* Extensibility for Java Developers in Neo4j
 
 == Abstract
 All the technologies in the world today, and a one-size-fits-all solution still does not exist.
 Each and every tool or product leaves something lacking for a particular functionality or use case.
 Developers are often required to build their own solutions to fit the need and write extra code each time a new gap presents itself.
 However, some technologies make it easier than others to write code for extensibility.
+
 Come to this session to hear how Neo4j (a Java-built graph database) allows developers access to additional libraries for extending core functionality and integrating with familiar technologies.
 We will discover how you can use an added Java library for solutions to common problems, write custom procedures and functions for certain edge cases, import and export various types of data, connect to applications in nearly any programming language, refactor your data, and explore areas of data science or ML.
 Simple integrations with vendor tools can allow developers to create beautiful visualizations, enhance monitoring, allow data searching, and move data by utilizing existing pieces of the development process to expand the capabilities of those tools.
+
 The fun doesn't have to end here, though. This technology is fully open source and accessible for community feedback and code improvement!
 Find out how Java extensions can increase existing functionality and how you can use Java to continue to expand it.
 

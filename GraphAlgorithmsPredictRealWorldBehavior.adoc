@@ -9,6 +9,7 @@ Learn how graph algorithms can help you predict real-world behavior and why an a
 We will start with an overview of which algorithms in Neo4j to apply for various types of optimal paths, influence in a network, and community detection.
 We will also discuss use cases that span across industries including recommendations, resiliency planning, fraud prevention, and traffic engineering/routing (such as IP and call).
 This will come alive through a live demo, where we look at what kinds of information you can retrieve and decisions you can make based on results from different algorithms and sets of data.
+
 From this session, you will gain the knowledge to recognize whether you have a graph analytics problem and how you can get started.
 
 == Speaker Bio
