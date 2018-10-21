@@ -1,5 +1,16 @@
 = Code Wars - How the Database Affects Your Application
 
+== Short Abstract
+With the ever-increasing importance of data and the ability to quickly capture and access it, it is essential to choose the best methods.
+Maybe the data layer isn't something that keeps developers up at night, but maybe it should.
+
+We will compare and contrast databases connecting to a typical Java application to understand where each makes life easier or harder for us as developers.
+From relational to NoSQL to graph, we will explore various types of data - the way it is stored underneath and how best to go about retrieving it.
+The presenter will code all examples live to show how your database choices change how you write applications.
+
+Come to this session to learn how different data sources and a variety of query languages impact the amount of code required to store and retrieve data!
+
+
 == Abstract
 With the ever-increasing importance of data and the ability to quickly capture and access it, it is essential to choose the best methods.
 Developers write applications to store and retrieve the data underneath but may not know the dramatic impact the lower layer has on their code or their work.
