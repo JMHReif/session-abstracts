@@ -1,0 +1,29 @@
+= Import Dread: Why Is Data Ingestion So Hard?
+
+== Alternate Titles
+* Does Data Import Have to Suck Your Life Away?
+
+== Short Abstract
+Today's technology environment consists of numerous options for databases and types of data stores, but there is one capability that isn't yet universal - data import.
+No matter what we do, data seems to exist in differing formats or require human intervention in order to structure it for easy ingestion.
+
+In this session, we will take a closer look at some ways to import different types of data into different types of data stores.
+From extra tools and helpful hints to vendor-provided solutions, come and learn how to reduce your project's critical path and focus more on business needs by simplifying the data import process!
+
+== Abstract
+Today's technology environment consists of numerous options for databases and types of data stores, but there is one capability that isn't yet simple or universal - data import.
+No matter what we (as developers) do, data seems to exist in differing formats or require human intervention in order to structure it for ingestion.
+
+Whether dealing with new data, migrating data, or translating/integrating data, we must write code to process these flows of data across systems and various structures for analysis.
+These processes can consume a surprising amount of planning, time, and frustration.
+Plus, they must handle changing data, business requirements, and system upgrades.
+Can we avoid these headaches? Or at least reduce them?
+
+In this session, we will take a closer look at some of the ways to import different types of data into different types of data stores.
+From extra tools and helpful hints to vendor-provided solutions, come and learn how to reduce your project's critical path and focus more on business needs by simplifying the data import process!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
