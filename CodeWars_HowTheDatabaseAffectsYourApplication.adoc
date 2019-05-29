@@ -10,6 +10,8 @@ The presenter will code all examples live to show how your database choices chan
 
 Come to this session to learn how different data sources and a variety of query languages impact the amount of code required to store and retrieve data!
 
+== Alternate abstract
+We know that different business needs and standards drive toward one technology or another, but how can we truly know which is the best technology for the job? In this session, learn how different datasources and a variety of query languages impact the amount of code required for storing and retrieving data. From relational to NoSQL to graph, the presentation explores various types of data—the way it is stored underneath and how best to go about retrieving it. A live-coding demo brings all this to life, and you’ll see exactly how your database choices change how you write applications. Come to this session to find out whether the solution actually fits the need and, if it doesn’t, how to provide valuable criteria and reasoning for a change.
 
 == Abstract
 With the ever-increasing importance of data and the ability to quickly capture and access it, it is essential to choose the best methods.

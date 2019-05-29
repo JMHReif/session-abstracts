@@ -1,0 +1,24 @@
+= Using machine learning and graph to predict links
+
+== Alternate titles
+* Machine learning and link prediction
+
+== Tags
+* graph
+* machinelearningfordevelopers
+* algorithms
+* graph databases
+
+== Short Abstract
+Machine learning uses algorithms to train software through specific examples and progressive improvements based on expected outcome. However, traditional data structures can fail to detect behavior without the contextual information because they lack the strongest predictors of behavior - relationships. Just as humans require contextual information to make better decisions, so do machine-learning algorithms. Combining ML processing with a graph data structure can help fill in the missing contextual information and improve our predictions. 
+
+In this session, we will show what graph has to offer and show an example applying link prediction analysis to estimate how likely academic authors are to collaborate with new co-authors in the future. We will see how to fine-tune the elements we measure and understand the results for decisions or further adjustments. Learn how to exploit the power of connected data to improve prediction analysis!
+
+== Notes to committee/motivation
+AI and ML is an increasingly popular area for developers, data scientists, and business associates alike. I want to present how graph can solve issues with showing data connections that are hidden in traditional data analysis tools and stores. Combining graph and AI can produce a powerful pair and developers need to know and understand how it works and what it solves!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.

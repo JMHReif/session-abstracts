@@ -1,0 +1,22 @@
+= Leveraging Graphs for Better AI and ML
+
+== Tags
+* artificialIntelligence
+* graphDatabases
+* AIsolutions
+
+== Short Abstract
+Today's tech news is littered with buzzwords and acronyms like - ML, AI, big data, smart devices, even graph. What does 'graph' actually provide and mean for technology and business in the artificial intelligence or machine learning space?
+
+In this session, we will look at what advantages graph brings to existing tech for AI and why graphs can solve more complex problems with less developer pain and expertise. Exploring some of the tools for graph AI solutions will demonstrate how to get started or better use the tools at hand. We will also get a look at where these combined technologies are headed and what's being developed to combat new problems.
+
+Come to this session to see how graph can simplify your data for AI and hear what's coming for developing better solutions to tackle emerging problems in this space!
+
+== Notes to committee/motivation
+AI and ML is an increasingly popular area for developers, data scientists, and business associates alike. I want to present how graph can solve issues with showing data connections that are hidden in traditional data analysis tools and stores. Combining graph and AI can produce a powerful pair and developers need to know and understand how it works and what it solves!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
