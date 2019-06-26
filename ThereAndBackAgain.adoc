@@ -1,0 +1,12 @@
+= There and Back Again: A Developer's Tale
+
+== Abstract
+Every developer has had to learn a new technology from hearing about it to research to an end solution. It's not always easy to get started with any new technology and make decisions on import, access, integration, and implementation. Graph provides new capabilities many have not leveraged yet and many developers want to apply it to a need in their companies. Graph is different from other data storage solutions that exist today, so how can we learn about and evaluate decisions to apply this technology in the right way?
+
+In this presentation, we see how to go from no knowledge to an end-to-end solution with Neo4j. Using a data set of the Lord of the Rings movie network, you can learn how to apply each of the process steps and what the result looks like. From learning the model and structure, choosing which environment install, discovering various possibilities for importing data, to actually loading, querying, and presenting the value to others, we show how to make decisions along the way and resources to use in making those decisions. Go from 0 to 60 in building your next solution with a graph database!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
