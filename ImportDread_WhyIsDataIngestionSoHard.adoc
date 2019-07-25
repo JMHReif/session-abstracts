@@ -1,23 +1,19 @@
-= Import Dread: Why Is Data Ingestion So Hard?
+= Banishing Import Dread: Taking the Pain out of Data Ingestion
 
 == Alternate Titles
-* Does Data Import Have to Suck Your Life Away?
+* Conquering Data Import like a Boss
 
 == Abstract
-In today's broad and fast-paced tech industry, there are many standards and recommended practices for IT systems and processes, but there is one capability that isn't yet universal - data import.
-Moving and translating data isn't just a one-and-done task either.
-It's a continuous cycle of updates to core and subsystem stores, feeding data gathered or crunched in various places to and from source-of-truth systems.
+In today’s rapidly evolving and expanding platforms, there are many standards and recommended practices for IT systems and processes. But there is one capability that isn’t yet universal: data import.
 
-Whether dealing with new data, migrating data, or translating/integrating data, we must write code to move this valuable and temperamental asset across systems and structures for analysis.
-These processes can consume a surprising amount of planning, time, and frustration.
-Plus, they must handle incremental updates, changing business requirements, and system upgrades.
-Can we reduce these headaches and find better tools to streamline and simplify these continuous processes?
+Moving and translating data isn’t just a one-and-done task, either. It’s a continuous cycle of updates to core and subsystem stores, feeding data generated, manipulated, & gathered in various places to and from so-called “systems of truth”.
 
-In this session, we will find and test ways to transport and transform different types of data into of 3 main categories of databases (relational, nosql, and graph).
-From extra tools and helpful hints to out-of-the-box solutions, come and learn how to reduce your project's critical path and focus more on business needs by simplifying the data import process!
+Whether dealing with new data, migrating data, or translating/integrating data, we often must write code to move this priceless and temperamental asset across systems and structures. Even the initial move can consume a staggering amount of time and resources. Adding incremental updates, changing business requirements, and system upgrades to the mix only increases the pain and risk. How can we reduce both? Do better tools exist to streamline and simplify these continuous/repeated processes?
+
+In this session, we will evaluate & demonstrate ways to transport & transform different types of data into three main categories of databases: relational, nosql, & graph. From extra tools and helpful hints to out-of-the-box solutions, come and learn how to streamline your project’s critical path and focus more on business needs by simplifying your data import process!
 
 == Notes to committee/motivation
-It seems that no matter the database, the longest pole in the tent is getting the data transported from one system or format to another. I wanted to explore the various ways/tools and show how each provides positive and negative experiences for different scenarios.
+No matter the databases involved, the toughest challenge in many projects is getting existing data transported reliably from one system or format to another and maintaining its integrity and “freshness”. In this session, I explore the various ways & tools available to do so and show the pros & cons of each in various scenarios.
 
 == Speaker Bio
 Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
