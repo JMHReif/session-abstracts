@@ -1,6 +1,7 @@
-= Using machine learning and graph to predict links
+= Fortune-telling for mortals: Machine learning and graph for more accurate predictions
 
 == Alternate titles
+* Using machine learning and graph to predict links
 * Machine learning and link prediction
 
 == Tags

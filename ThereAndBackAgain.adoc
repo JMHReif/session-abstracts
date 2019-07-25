@@ -5,6 +5,9 @@ Every developer has had to learn a new technology from hearing about it to resea
 
 In this presentation, we see how to go from no knowledge to an end-to-end solution with Neo4j. Using a data set of the Lord of the Rings movie network, you can learn how to apply each of the process steps and what the result looks like. From learning the model and structure, choosing which environment install, discovering various possibilities for importing data, to actually loading, querying, and presenting the value to others, we show how to make decisions along the way and resources to use in making those decisions. Go from 0 to 60 in building your next solution with a graph database!
 
+== Notes to committee/motivation
+Documentation usually give a variety of options for users to pick and choose how they want to compile their solution. However, developers often have to figure out how to assemble those pieces before they understand the affects to the end solution. What is missing is a fully-developed example of going from start to finish. My goal is to provide that step-by-step process and show why certain decisions were made and when you might want to choose different options throughout the process.
+
 == Speaker Bio
 Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
 She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
