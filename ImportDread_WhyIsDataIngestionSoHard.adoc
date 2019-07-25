@@ -3,24 +3,18 @@
 == Alternate Titles
 * Does Data Import Have to Suck Your Life Away?
 
-== Short Abstract
-Today's technology environment consists of numerous options for databases and types of data stores, but there is one capability that isn't yet universal - data import.
-No matter what we do, data seems to exist in differing formats or require human intervention in order to structure it for easy ingestion.
-
-In this session, we will take a closer look at some ways to import different types of data into different types of data stores.
-From extra tools and helpful hints to vendor-provided solutions, come and learn how to reduce your project's critical path and focus more on business needs by simplifying the data import process!
-
 == Abstract
-Today's technology environment consists of numerous options for databases and types of data stores, but there is one capability that isn't yet simple or universal - data import.
-No matter what we (as developers) do, data seems to exist in differing formats or require human intervention in order to structure it for ingestion.
+In today's broad and fast-paced tech industry, there are many standards and recommended practices for IT systems and processes, but there is one capability that isn't yet universal - data import.
+Moving and translating data isn't just a one-and-done task either.
+It's a continuous cycle of updates to core and subsystem stores, feeding data gathered or crunched in various places to and from source-of-truth systems.
 
-Whether dealing with new data, migrating data, or translating/integrating data, we must write code to process these flows of data across systems and various structures for analysis.
+Whether dealing with new data, migrating data, or translating/integrating data, we must write code to move this valuable and temperamental asset across systems and structures for analysis.
 These processes can consume a surprising amount of planning, time, and frustration.
-Plus, they must handle changing data, business requirements, and system upgrades.
-Can we avoid these headaches? Or at least reduce them?
+Plus, they must handle incremental updates, changing business requirements, and system upgrades.
+Can we reduce these headaches and find better tools to streamline and simplify these continuous processes?
 
-In this session, we will take a closer look at some of the ways to import different types of data into different types of data stores.
-From extra tools and helpful hints to vendor-provided solutions, come and learn how to reduce your project's critical path and focus more on business needs by simplifying the data import process!
+In this session, we will find and test ways to transport and transform different types of data into of 3 main categories of databases (relational, nosql, and graph).
+From extra tools and helpful hints to out-of-the-box solutions, come and learn how to reduce your project's critical path and focus more on business needs by simplifying the data import process!
 
 == Notes to committee/motivation
 It seems that no matter the database, the longest pole in the tent is getting the data transported from one system or format to another. I wanted to explore the various ways/tools and show how each provides positive and negative experiences for different scenarios.
