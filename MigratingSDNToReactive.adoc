@@ -1,0 +1,28 @@
+= Bruce Wayne to Batman: Migrating a Non-Reactive Spring App to Reactive
+
+== Alternate titles
+* Bruce Wayne to Batman (or Non-Reactive to Reactive): How to Transform your Spring App
+
+== Tags
+* graph
+* spring
+* reactive
+* drivers
+
+== Short Abstract
+Taking a working application to the next level by adopting a newer process may often feel more like fighting a villain and less like a quick costume change. Many developers have to migrate applications on their own with little documentation or assistance through the process.
+
+In this session, see the process live as the presenter walks through migrating a Spring Data Neo4j application to a reactive application with the new Spring Data Neo4j Reactive capabilities. We will see how the migration works, as well as understand pitfalls and how to navigate them along the way.
+
+Come to this session to go from a billionaire application to a superhero application through the conversion!
+
+== Notes to committee/motivation
+Documentation is often good for creating an application from scratch or comparing what is different between the capabilities of what came before and what's new. However, little of it actually shows how to convert existing, complex applications to the new process or framework.
+
+This presentation's goal is to show this live and help developers document how to go from a traditional Spring Data Neo4j application to a Spring Data Reactive application.
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
