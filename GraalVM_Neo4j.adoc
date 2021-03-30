@@ -1,0 +1,26 @@
+= Language Buffet: Using GraalVM to talk to a graph database
+
+== Alternate titles
+* Language Buffet: Extend and interact with Neo4j in new ways with GraalVM
+* Language Buffet: Using GraalVM with Neo4j
+
+== Tags
+* jvm
+* languages
+* polyglot
+* extensions
+
+== Elevator Pitch (300 words or less)
+//add content here
+
+== Abstract
+//add content here
+
+== Notes to committee/motivation
+//add content here
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.

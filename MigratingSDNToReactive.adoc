@@ -2,6 +2,7 @@
 
 == Alternate titles
 * Bruce Wayne to Batman (or Non-Reactive to Reactive): How to Transform your Spring App
+* Bruce Wayne to Batman: Transform your Spring Data Neo4j App from Non-Reactive to Reactive
 
 == Tags
 * graph
@@ -13,6 +14,13 @@
 Taking a working application to the next level by adopting a newer process may often feel more like fighting a villain and less like a quick costume change. Many developers have to migrate applications on their own with little documentation or assistance through the process.
 
 In this session, see the process live as the presenter walks through migrating a Spring Data Neo4j application to a reactive application with the new Spring Data Neo4j Reactive capabilities. We will see how the migration works, as well as understand pitfalls and how to navigate them along the way.
+
+Come to this session to go from a billionaire application to a superhero application through the conversion!
+
+== Abstract
+Taking a working application to the next level by adopting a newer release may often feel more like fighting a villain and less like a quick costume change. Many developers have to migrate applications on their own with little documentation or assistance through the process. Developers may be left wondering if taking advantage of the new features are truly worth the time and effort to upgrade.
+
+In this session, we will cover the changes between the previous release of Spring Data Neo4j (SDN 5) and the new SDN 6. See the transition process live as the presenter walks through migrating a Spring Data Neo4j application to a reactive application with the new Spring Data Neo4j reactive capabilities. We will see how the migration works, as well as understand pitfalls and how to navigate them along the way.
 
 Come to this session to go from a billionaire application to a superhero application through the conversion!
 

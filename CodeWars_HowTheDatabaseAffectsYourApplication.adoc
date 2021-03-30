@@ -1,5 +1,9 @@
 = Code Wars - How the Database Affects Your Application
 
+== Alternate titles
+* Code Wars - Does the Database Impact Application Development?
+* Code Wars - Database Decisions for Application Development
+
 == Short Abstract
 With the ever-increasing importance of data and the ability to quickly capture and access it, it is essential to choose the best methods.
 Maybe the data layer isn't something that keeps developers up at night, but maybe it should.
@@ -10,7 +14,7 @@ The presenter will code all examples live to show how your database choices chan
 
 Come to this session to learn how different data sources and a variety of query languages impact the amount of code required to store and retrieve data!
 
-== Alternate abstract
+== Alternate short abstract
 We know that different business needs and standards drive toward one technology or another, but how can we truly know which is the best technology for the job? In this session, learn how different datasources and a variety of query languages impact the amount of code required for storing and retrieving data. From relational to NoSQL to graph, the presentation explores various types of data—the way it is stored underneath and how best to go about retrieving it. A live-coding demo brings all this to life, and you’ll see exactly how your database choices change how you write applications. Come to this session to find out whether the solution actually fits the need and, if it doesn’t, how to provide valuable criteria and reasoning for a change.
 
 == Abstract
@@ -28,6 +32,17 @@ Learn which query languages fit the data store and how that also impacts the dev
 A live-coding demo will bring all this to life, as the presenter shows exactly how your database choices change how you write applications.
 
 Come to this session to find out whether the solution actually fits the need, and if it doesn't, how to provide valuable criteria and reasoning for a change!
+
+== Alternate Full Abstract
+Data access and storage methods continue to grow and diversify. As data volumes and complexities grow, it is vital for developers to maximize efficiency of applications.
+Understanding the structure of data behind applications can make a big impact on the complexity of the application and queries.
+Maybe the data layer isn't something that keeps developers up at night, but maybe it should.
+
+In this session, we will compare and contrast databases connecting to a typical Java application to understand where each makes life easier or harder for you as the developer.
+From relational to NoSQL to graph, we will explore various types of data - the way it is stored and how best to go about retrieving it.
+A live-coding demo will bring all this to life, as the presenter shows exactly how your database choices change how you write applications.
+
+Come to this session to find out whether the solution actually fits the need, and how to make informed decisions for your applications and the data behind them!
 
 == Speaker Bio
 Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.

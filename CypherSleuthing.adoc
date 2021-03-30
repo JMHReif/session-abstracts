@@ -1,0 +1,29 @@
+= Cypher Sleuthing: Taking your Skills to the Next Level
+
+== Alternate titles
+* Cypher Sleuthing: Query with Purpose
+
+== Tags
+* graphs
+* cypher
+* developers
+* query-language
+
+== Elevator Pitch (300 characters or less)
+We know the basics of Cypher and can navigate a graph, but how do we take our skills to the next level? This session will navigate more complex concepts for writing clean, simple, and performant queries with Cypher. Come join us to take the next step for Cypher expertise!
+
+== Description
+Ok, you learned the basics of Cypher and can navigate most data sets pretty well, but what is next? How can you take your Cypher skills to the next level? Many developers find that there are plenty of materials for learning the beginning skills of many technologies, but that road to intermediate level is often less consistent and paved.
+
+Join us as we dive into writing more complex Cypher queries and understand the different options for tackling common problems. How does the eager operator impact performance? Are date and time translations and formatting still frustrating? What are the different ways to handle text extraction? How do I retrieve unique paths and avoid duplicates? The answers to these and more will be covered in this session to help you on the road to Cypher expertise.
+
+Some common pitfalls can be avoided if we know where they are and how to find them. Navigating these concepts will help us design queries for clean, simple, and performant code. We will analyze how to use traditional Cypher to approach problems, as well as how libraries like APOC can offer additional benefits. Come to this session and gain some knowledge for piecing together complex Cypher queries with purpose!
+
+== Notes to committee/motivation
+I'm learning many next-level concepts as I interact with different data sets and problems. I often have to ask a Cypher expert colleague to help me solve and understand these issues, as it can be hard to find step-by-step content for intermediate concepts. The goal of this session is to share my learnings with others in the community for awareness and so they can avoid some of the same mistakes I've made along the way. :)
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
