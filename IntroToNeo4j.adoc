@@ -11,7 +11,7 @@
 * learning
 * property graph
 
-== Elevator Pitch (300 words or less)
+== Elevator Pitch (300 characters or less)
 Traditional data stores often make it difficult to find valuable relationships. This is where graph can help. In this session, we will walk through what a graph database is and how it can transform your data. We will explore creating, querying, displaying, and interacting with your graph data.
 
 == Abstract

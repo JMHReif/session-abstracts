@@ -1,0 +1,37 @@
+= Pouring Coffee into the Matrix - Building Java Applications on Neo4j
+
+== Alternate titles
+* ??
+
+== Tags
+* graph
+* spring
+* drivers
+* java
+* applications
+
+== Elevator pitch (300 characters or less)
+Many of us have built applications for relational data structures, but is it different for graph data? In this session, we will cover a brief intro to graphs and build a typical Java application for a graph database. Join us to see how to amplify the power of connected data with applications!
+
+== Short Abstract
+Many of us have built applications for traditional data structures (like relational database tables), but is it different for graph data stores?
+
+In this session, we will cover a brief intro to graphs and build a typical Java application for a graph database. We will interact with the graph data from the application, and explore some deployment possibilities.
+
+Join us to see how to amplify the power of connected data with applications!
+
+== Abstract
+Many of us have built applications for traditional data structures (like relational database tables), but is it different for graph data stores? Do developers need to retool and relearn?
+
+In this session, we will cover a brief intro to graphs and walk through writing a typical Java application with Spring and connect it to a graph database. We will walk through interacting with the graph data from the application, and show it in the cloud, as well.
+
+Come to this session to apply your business applications to graph data!
+
+== Notes to committee/motivation
+I want to show how applications differ or are the same using a graph data structure compared to other types of data. Whether approaching a business problem or simply understanding applications with graph databases, I want to share and encourage developers to use graphs where appropriate!
+
+== Speaker Bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
+She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
+She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
+Her passion is finding ways to organize chaos and deliver software more effectively.
