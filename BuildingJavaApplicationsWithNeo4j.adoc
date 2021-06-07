@@ -23,9 +23,9 @@ Join us to see how to amplify the power of connected data with applications!
 == Abstract
 Many of us have built applications for traditional data structures (like relational database tables), but is it different for graph data stores? Do developers need to retool and relearn?
 
-In this session, we will cover a brief intro to graphs and walk through writing a typical Java application with Spring and connect it to a graph database. We will walk through interacting with the graph data from the application, and show it in the cloud, as well.
+In this session, we will cover a brief intro to graphs, walk through writing a typical Java application with Spring, and then connect it to a graph database. From interacting with the graph data from the application to deploying to the cloud, we will see the process from start to finish. We will learn how to tackle pitfalls and pick up tips along the way, as well as explore the ways we can build, deploy, and connect applications to the database. This will come alive through a live demo, as we see the results of our efforts.
 
-Come to this session to apply your business applications to graph data!
+Come to this session to build your business applications for graph data!
 
 == Notes to committee/motivation
 I want to show how applications differ or are the same using a graph data structure compared to other types of data. Whether approaching a business problem or simply understanding applications with graph databases, I want to share and encourage developers to use graphs where appropriate!

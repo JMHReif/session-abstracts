@@ -2,6 +2,7 @@
 
 == Alternate titles
 * Cypher Sleuthing: Query with Purpose
+* Cypher Sleuthing: Tips and Tricks for Querying a Graph Database
 
 == Tags
 * graphs
@@ -19,8 +20,18 @@ Join us as we dive into writing more complex Cypher queries and understand the d
 
 Some common pitfalls can be avoided if we know where they are and how to find them. Navigating these concepts will help us design queries for clean, simple, and performant code. We will analyze how to use traditional Cypher to approach problems, as well as how libraries like APOC can offer additional benefits. Come to this session and gain some knowledge for piecing together complex Cypher queries with purpose!
 
+== Alternate abstract
+Searching for ways to improve your knowledge and skill in writing queries with graph data? While many marketing and sales messages tell us graphs are easier to understand and relatable for other users, writing and structuring graph queries is often different than the skills we currently possess. So how can we up-skill without the pain and time of trial-and-error?
+
+Join us as we dive into the structure of a graph database and understand how queries operate. To help us understand the query logic, we will explore tools and tricks to finding out where things went wrong or where we can optimize our queries. We will cover tips and tricks, as well as pitfalls, to help us avoid future road blocks or performance hits.
+
+Come to this session to see how to navigate graph data with confidence to retrieve accurate and performant results!
+
 == Notes to committee/motivation
 I'm learning many next-level concepts as I interact with different data sets and problems. I often have to ask a Cypher expert colleague to help me solve and understand these issues, as it can be hard to find step-by-step content for intermediate concepts. The goal of this session is to share my learnings with others in the community for awareness and so they can avoid some of the same mistakes I've made along the way. :)
+
+== Alternate notes
+For me, understanding how/why something works (or doesn't) aids in problem-solving and successfully applying the principles in the future. Content in this area (for any technology) is not common, and especially for graph data structures, because they are newer than other data formats. My goal for this session is to help users of any skill level to understand how graph data is structured and how to traverse and navigate it in efficient ways. While much of my experience is around Neo4j and Cypher, graph data structures share many general concepts, which can be applied across vendors and languages.
 
 == Speaker Bio
 Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.

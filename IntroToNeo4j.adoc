@@ -22,11 +22,9 @@ In this session, we will walk through what a graph database is and how it can tr
 Join us to learn how graph databases are used to improve the data world and help developers easily extract/import connected data!
 
 == Alternate Abstract
-In this connected world, traditional data stores often make it difficult to find valuable relationships. Graph databases focus not only on the entities, but the connections between them. By making relationships a key component of the model, contextualizing a set of data becomes incredibly simple.
-
-In this session, we will walk through what a graph database is and how it can transform your applications and data. We will explore creating, querying, and displaying data and learn how to use simple tools to interact with the database. We will navigate common foundations across many graph vendors - the property graph model and the Cypher query language. Live demos will show developers how to interface with the database and the data in it.
-
-Join us to learn how graph databases are used to improve the data world and help developers easily extract/import connected data!
+In this connected world, traditional data stores often make it difficult to find valuable relationships. Graph databases focus not only on the entities, but the connections between them. By making relationships a key component of the model, contextualizing a set of data becomes incredibly simple. 
+In this session, we will explore graphs and how they provide context in the way they store data. We will see how to transform our own projects into graph structures, optimize the model for querying, and access the data for maximum benefit through queries, visualization, and applications.
+Join us to learn how graph databases are used to improve the data world and help developers easily make sense of connected data!
 
 == Notes to committee/motivation
 Many developers are not yet familiar with graph technologies and how they are useful. This session will explore the best cases to use graph and what it can do for business and technical needs.
