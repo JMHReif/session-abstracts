@@ -1,0 +1,31 @@
+= Divide and Conquer: Send Forth the Microservices
+
+== Alternate titles
+
+== Tags
+* messages
+* events
+* graph
+* applications
+* spring
+
+== Elevator pitch (300 characters or less)
+Most developers have dealt or are dealing with monoliths. What if we could swap the fortress for battle units to improvise, adapt, and overcome their enemies? This session will use live demos to take you from Level 1 Sorcerer to Level 20 with basics of microservice chatter to whole pipeline.
+
+== Short abstract
+Monolithic applications can be a powerful strategy in technical systems, but can crumble against certain opponents. Microservices combat those weaknesses using division and multiplication.
+
+In this session, we will start with introductory application chatter and work our way to fully operational pipeline with microservices architecture. We will evaluate our solution for real business use, then take it to the field through live coding to see how it operates in real life.
+
+== Abstract
+Ever had one of those uneasy nights hoping you don’t get a call that some part of an application brought a system down? So have I. Monolithic applications can be a powerful strategy in technical systems, but can crumble against certain opponents. Microservices combat those weaknesses using division and multiplication.
+
+In this session, we will explore how microservices divide functionality and responsibility and multiply their forces to handle load and complexity. Starting with introductory application chatter and working our way to fully operational pipeline with microservices architecture, we’ll go from Level 1 Sorcerer to Level 20. We will look at the pros and cons of this structure and evaluate it for real business use, then take our plans to the field through live coding and see whether our solution is a viable strategy.
+
+Trade a fortress for battle units ready to improvise, adapt, and overcome their technical enemies!
+
+== Notes to committee/motivation
+The idea to reduce complexity and strength by trading a monolith for microservices is a common one….but where to actually start? The presenter was in this same situation and wants to share how developers can begin with a minimal starter and build upon that for an end result that is ready to tackle all the business requirements.
+
+== Speaker bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver. She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value. She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.

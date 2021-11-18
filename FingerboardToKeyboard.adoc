@@ -1,0 +1,30 @@
+= Fingerboard to Keyboard: Transposing a Musician to a Developer
+
+== Alternate titles
+* Composing Your Career: How a Musician Turned Developer
+
+== Tags
+* career
+* learning
+* developer
+* musician
+* programming
+
+== Elevator pitch (300 words or less)
+Whether changing careers or technologies, many others have taken leaps from seemingly unrelated paths. This session will share the presenter’s story with some things she’s learned along the way to encourage others in whatever their dreams may be and provide some of her tips to getting there.
+
+== Short abstract
+Whether you are considering a career change or a new hobby project, many others have taken leaps from seemingly unrelated paths. This session will share the presenter’s journey from an arts to a sciences career and how that wasn’t as different as it seems.
+
+We will see how to apply already-learned skills and techniques to any path in life with the hopes that it will encourage you to pursue your goals, no matter how far they might seem.
+
+== Abstract
+Whether you are considering a career change or a new hobby project, many others have taken leaps from seemingly unrelated paths. This session will share the presenter’s journey from an arts to a sciences career and how that wasn’t as different as it seems.
+
+We will see how to apply already-learned skills and techniques to any path in life with the hopes that it will encourage you to pursue your goals, no matter how far they might seem. Join this session to gather some tools and don’t hesitate to start your next adventure!
+
+== Notes to committee/motivation
+I know several who have changed careers or pursued other things, but people always seem surprised. I want to share my experience so that others can see their next adventure may not be as far as it might seem.
+
+== Speaker bio
+Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver. She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value. She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.
