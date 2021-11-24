@@ -1,4 +1,4 @@
-= Be a kid again: Learn the latest Java features through exploration
+= Be a Kid Again: Learn the latest Java features through exploration
 
 == Alternate titles
 
