@@ -4,8 +4,6 @@
 == Maintainer
 * Jennifer Reif
 
-image::ReignStudios_headshot2_square_reduceSize.jpg[link=https://drive.google.com/file/d/1i5XaKpkcmTnbtIFpgNXeANkev4N6ATlx/view?usp=sharing,width=100,height=100]
-
 == Purpose
 In this repository are a list of session topics I am able to deliver.
 Session Formats:
