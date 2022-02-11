@@ -26,6 +26,3 @@ Trade a fortress for battle units ready to improvise, adapt, and overcome their 
 
 == Notes to committee/motivation
 The idea to reduce complexity and strength by trading a monolith for microservices is a common one….but where to actually start? The presenter was in this same situation and wants to share how developers can begin with a minimal starter and build upon that for an end result that is ready to tackle all the business requirements.
-
-== Speaker bio
-Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver. She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value. She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.

@@ -1,0 +1,25 @@
+= Be a Kid Again: Maximize insights with data exploration in a graph database
+
+== Alternate titles
+
+== Tags
+* graph
+* database
+* data
+* analysis
+
+== Elevator pitch (300 characters or less)
+Understanding complex data may seem like a daunting task, let alone extracting business value. A graph database can help tackle difficult problems in a fun and exploratory way. This session will unlock our inner child, using graphs and natural curiosity to solve complex business problems.
+
+== Short abstract
+Understanding complex data may seem like a daunting task, but we'll see how to hack our own hesitation and make it fun. By putting data in a graph database, we can tap into natural curiosity and help gather insights in a fun and exploratory way.
+
+Live demos will bring the data to life as we explore and use graphs to maximize business value with less effort.
+
+== Abstract
+Understanding complex data may seem like a daunting task, but we'll see how to hack our own hesitation and make it fun. By putting data in a graph database, we can view data with a fresh perspective, tapping into natural curiosity to gather insights in a fun and exploratory way.
+
+We will use the graph to understand layers in our data and uncover hidden connections within the domain. Using both visual tools and code, this session will unlock our inner child, using graphs to solve complex problems. Live demos will bring the data to life as we explore and use graphs to maximize business value with less effort.
+
+== Notes to committee/motivation
+Up-skilling to learn new technology or gaining valuable insight from complex data can be exhausting, but graph tackles data in a new and creative way, which can help increase our motivation. I want to share how graph makes data analysis fun.
