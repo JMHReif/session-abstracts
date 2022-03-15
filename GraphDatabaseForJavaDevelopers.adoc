@@ -1,0 +1,26 @@
+= Cliff Notes: What Java Developers Need to Know About Graph Databases
+
+== Alternate titles
+* How Do You Know If a Graph Database Solves the Problem?
+
+== Tags
+* graph
+* database
+* data
+* analysis
+
+== Elevator pitch (300 characters or less)
+Keeping up with database trends? Or learning for a project requirement? Or something else? In this session, we will hit the high points on graph databases and get Java developers what they need to get started quickly and successfully. From data model to applications, these are the Cliff Notes!
+
+== Short abstract
+Many developers are familiar with polyglot environments - matching databases to projects that play to their strengths. Whether you are a developer who likes to know the latest technologies, who is required to learn for a project, or anywhere in between, this session will hit the high points on graph databases. From data model to queries to applications, Java developers can gather the tools they need to get started quickly and successfully. Come to this session to get the Cliff Notes on graph databases!
+
+== Abstract
+Many developers are familiar with polyglot environments and assigning database technologies to projects that play to their strengths. But what do we do when our existing data stores don't fit the need? Are we doomed to make it work or is there another option? Enter graphs.
+
+Graphs form another type of data store and are ideal for highly-connected data sets. Whether you are a developer who likes to know the latest technologies, who is required to learn for a project, or anywhere in between, this session will hit the high points on graph databases. We will discuss how these databases differ, what use cases are (and aren't!) good fits for a graph, and how data is organized for this type of database.
+
+Then, we will cover queries and building applications with a live demo and code to bring concepts to life. Java developers can gather the tools they need to get started quickly and successfully. Come to this session to get the Cliff Notes on graph databases!
+
+== Notes to committee/motivation
+Graph databases are still relatively unknown to many organizations and developers. While the examples will focus on the graph database Neo4j, the concepts and skills can be used across many graph databases. My goal is to help relate unfamiliar technologies with skill they already have to give Java developers another option in their toolbelt for tackling every day developer and business problems.

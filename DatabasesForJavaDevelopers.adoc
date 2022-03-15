@@ -1,0 +1,28 @@
+= Stupid Database Tricks for Smart Java Developers
+
+== Alternate titles
+* BYOD for Java Devs: Bring Your Own Database
+
+== Tags
+* database
+* backend
+* tips and tricks
+* java
+
+== Elevator pitch (300 characters or less)
+New technologies appear in the industry all the time, but how can developers understand them all and know when to apply them? In this session, we'll take quick stock of database options and the technologies used with them and focus on tips and tricks for working with different databases.
+
+== Short abstract
+New data storage technologies appear in the industry all the time, but how can developers understand them all and know when to apply them? In this session, we'll take quick stock of database options and the technologies used with them, such as messaging platforms, object mappers, and more.
+
+We will understand which use cases fit certain data stores and how choosing the wrong one can make a developer's life harder. Diving into semantics and tools, we will learn some tips and tricks for working with different databases. Live coding will show how these concepts work in-practice and give Java developers confidence to navigate the database world.
+
+== Abstract
+New technologies appear in the industry all the time, but how can developers understand them all and know when to apply them? In this session, we'll take quick stock of database options and the technologies used with them, such as messaging platforms, object mappers, and more.
+
+We will understand which use cases fit certain data stores and how choosing the wrong one can make a developer's life harder. With the right technology, data analysis, modeling, querying, and building applications becomes focused on business problems and less about technical limitations. The presenter will highlight tips and tricks for working with databases as a Java developer, using live code to see how it really works.
+
+Come to this session to level up on databases!
+
+== Notes to committee/motivation
+Java developers are used to working with databases, but may only deal with a subset of what is available. Maybe they learn newer technologies or maybe not...but there is very little to help with database decisions at the developer level. The speaker would aim to touch on different database categories and where each takes the spotlight, then cover some tools and pitfalls of each, as well. Through this session, Java devs can better understand their options and make decisions (or provide input) on databases.
