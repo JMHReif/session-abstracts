@@ -1,0 +1,27 @@
+= Toolbelt Trifecta: Connecting to Neo4j with Java and AWS Lambda
+
+== Alternate titles
+
+== Tags
+* java
+* neo4j
+* graph
+* applications
+* aws lambda
+* cloud functions
+
+== Elevator pitch (300 characters or less)
+Java, AWS Lambda, Neo4j - one or more of these might be familiar, but how do we use them together? With challenges, questions, and coding, we will write a cloud function in Java that runs a query in Neo4j and returns the results. Join us to combine these technologies for a powerful trifecta!
+
+== Short abstract
+Java, AWS Lambda, Neo4j - one or more of these might be familiar to us, but how do we use them together? In this session, we will take a look at each of these technologies by itself, and then assemble some code to combine them. We will start with available example code, and then see how to improve and update that code with the latest and greatest.
+
+We will see live how to overcome challenges, find answers to questions, and piece together code. As a result, we will write a cloud function in Java that runs a query in Neo4j and returns the results. Join us to combine these technologies for a powerful trifecta!
+
+== Abstract
+Java, AWS Lambda, Neo4j - one or more of these technologies might be familiar to us, but how do we use them together? In this session, we will take a look at each of these technologies by themselves, and then assemble some code to combine them. We will start with available example code, and then see how to improve and update that code with the latest and greatest features and efficiencies offered.
+
+Through live coding, we will work through the challenges, find answers to questions, and piece together code. As a result, we will have a working solution for a cloud function in Java that runs a query in Neo4j and returns the results. Join us to combine these technologies for a powerful trifecta!
+
+== Notes to committee/motivation
+There is often a lot of available content around individual technologies, as well as some content around using two tools together. But when developers need to use three technologies together (especially these three), there is very little to help them. Example code is even outdated or inefficient. This session aims to provide a solution and how to write cloud functions in Java for a graph database.
