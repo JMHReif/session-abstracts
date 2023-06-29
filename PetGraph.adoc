@@ -1,0 +1,24 @@
+= Fluffy and Fido on the Go: Applying graph data to hack pet travel
+
+== Alternate titles
+
+== Formats
+* can present as solo speaker or co-present with https://github.com/mkheck[Mark Heckler^]
+
+== Tags
+* java
+* neo4j
+* spring
+* azure
+
+== Elevator pitch (300 characters or less)
+Ever wished it was easier to take your favorite furbaby with you when you travel? Join the presenters as they explore how to search for pet-friendly accommodations, store it in Neo4j, and use Neo's insights to find the best places to stay, eat, and play with your four-legged family member.
+
+== Short abstract
+
+== Abstract
+Ever wished it was easier to take your favorite furbaby with you when you travel? If you've ever attempted this feat, you know what a challenge it can be. Finding that ideal location can involve a lot of research -- and time -- searching for hotel, restaurant, green space, and other pet-friendly locations and cross referencing them. On top of that, what if Fido or Fluffy has a medical emergency while you're on the road? How do you find a veterinarian that's open and nearby?
+
+Join the presenters as they explore how to search publicly-available data for pet-friendly accommodations, store it in Neo4j, and use Neo's insights to find the best places to stay, eat, and play with your four-legged family member. During the course of the session, they'll develop an application using Spring Boot, deploy it to Azure Spring Apps, and demonstrate how to use the Neo4j Bloom visualization tool to examine the data for additional insights.
+
+== Notes to committee/motivation

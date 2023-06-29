@@ -1,0 +1,31 @@
+= Organize your life with a personal knowledge graph
+
+== Alternate titles
+
+== Formats
+* can present as solo speaker or co-present with https://github.com/jalakoo[Jason Koo^]
+
+== Tags
+* neo4j
+* knowledge graph
+* java
+* python
+
+== Elevator pitch (300 characters or less)
+It's hard to stay organized, and even harder to remember where you jotted down that one piece of information. Wouldn't it be nice if you could just ask your computer to find it for you, along with everything related to it? That's what a knowledge graph is for.
+
+In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. Come join us to learn how to build your own knowledge graph and make organizing your life easier!
+
+== Short abstract
+It's hard to stay organized, and even harder to remember where you jotted down that one piece of information. Wouldn't it be nice if you could just ask your computer to find it for you, along with everything related to it? That's what a knowledge graph is for.
+
+In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. We'll walk through the process to see how to import information from a 2nd brain platform (such as Evernote or Obsidian) into the graph. Come join us to learn how to build your own knowledge graph and make organizing your life easier!
+
+== Abstract
+It's hard to stay organized, and even harder to remember where you jotted down that one piece of information. Wouldn't it be nice if you could just ask your computer to find it for you? And it would return the exact piece of information you were looking for and everything related to it? That's what a knowledge graph is for.
+
+In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. We'll walk through the process to see how to import information from a 2nd brain platform (such as Evernote or Obsidian) into the graph. With the information as nodes and relationships, we can query it to find what we need and traverse paths for additional information.
+
+Come join us to learn how to build your own knowledge graph and make organizing your life easier!
+
+== Notes to committee/motivation
