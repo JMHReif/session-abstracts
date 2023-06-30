@@ -12,20 +12,21 @@
 * python
 
 == Elevator pitch (300 characters or less)
-It's hard to stay organized, and even harder to remember where you jotted down that one piece of information. Wouldn't it be nice if you could just ask your computer to find it for you, along with everything related to it? That's what a knowledge graph is for.
+Can't remember the name of that genius developer you met last year, but remember pieces of your conversation? If only you could rank all your contacts by a few keywords. With a personal knowledge graph, you can!
 
-In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. Come join us to learn how to build your own knowledge graph and make organizing your life easier!
+In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j and help you discover new insights in your own data!
 
 == Short abstract
-It's hard to stay organized, and even harder to remember where you jotted down that one piece of information. Wouldn't it be nice if you could just ask your computer to find it for you, along with everything related to it? That's what a knowledge graph is for.
+Can't remember the name of that genius developer you met last year, but you remember pieces of your conversation? If only you could rank all your contacts by a few keywords. With a personal knowledge graph, you can!
 
-In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. We'll walk through the process to see how to import information from a 2nd brain platform (such as Evernote or Obsidian) into the graph. Come join us to learn how to build your own knowledge graph and make organizing your life easier!
+In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. We'll walk through the process of importing information from a second brain platform and traverse the data using the Cypher query language. Learn how to build your own knowledge graph and discover new insights in your own data!
+
 
 == Abstract
-It's hard to stay organized, and even harder to remember where you jotted down that one piece of information. Wouldn't it be nice if you could just ask your computer to find it for you? And it would return the exact piece of information you were looking for and everything related to it? That's what a knowledge graph is for.
+Can't remember the name of that genius developer you met last year, but you remember bits & pieces of your conversation? If only you could page rank all your contacts by a few memorable keywords. With a personal knowledge graph, you can!
 
-In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. We'll walk through the process to see how to import information from a 2nd brain platform (such as Evernote or Obsidian) into the graph. With the information as nodes and relationships, we can query it to find what we need and traverse paths for additional information.
+In this talk, the presenters will show you how to build your own personal knowledge graph using Neo4j, a graph database. We'll walk through the process of importing information from a second brain platform (such as Evernote or Obsidian) into graph nodes and relationships. From there, we'll explore and traverse the data using the Cypher query language.
 
-Come join us to learn how to build your own knowledge graph and make organizing your life easier!
+Come learn how to build your own knowledge graph and discover new insights in your own data!
 
 == Notes to committee/motivation
