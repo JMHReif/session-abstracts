@@ -1,13 +1,13 @@
-= Stupid Database Tricks for Smart Java Developers
+= Stupid Database Tricks for Smart Developers
 
 == Alternate titles
-* BYOD for Java Devs: Bring Your Own Database
+* BYOD for Devs: Bring Your Own Database
 
 == Tags
 * database
 * backend
-* tips and tricks
-* java
+* tips
+* developers
 
 == Elevator pitch (300 characters or less)
 New technologies appear in the industry all the time, but how can developers understand them all and know when to apply them? In this session, we'll take quick stock of database options and the technologies used with them and focus on tips and tricks for working with different databases.

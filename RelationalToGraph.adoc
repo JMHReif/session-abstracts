@@ -1,0 +1,26 @@
+= Connect the Tables: How to Graph Relational Databases
+
+== Alternate titles
+* ??
+
+== Tags
+* database
+* backend
+* relational
+* graph
+
+== Elevator pitch (300 characters or less)
+You've heard about graphs, but what if you already have a relational database? How do you incorporate something new? This session will help you translate data from a relational format into a graph. We will cover the basics of migrating the model and practical steps for actually implementing it.
+
+== Short abstract
+You might have heard about graphs, but what if you already have a relational database? How do you incorporate something new? This session will show you how to translate part of all data from a relational format into a graph.
+
+We will cover the basics of migrating the model and practical steps for actually implementing it. Throughout, we will show live code for making this work in the real world. Come to this session to get concrete steps for graphing relational databases.
+
+== Abstract
+You might have heard about graphs, but what if you already have a relational database? How do you incorporate something new? This session will show you how to translate part of all data from a relational format into a graph.
+
+We will cover the basics of migrating the model and practical steps for actually implementing it. We will walk through naming and case conventions for graphs, as well as some principles for a successful graph model. At each step, we will show live code for making this work in the real world. Come to this session to get concrete steps for graphing relational databases.
+
+== Notes to committee/motivation
+Modeling, best practices, rules-of-thumb, and concrete steps are all common questions I get from people who are interested in graphs but already have a relational database. This session is intended to help answer those questions. While this session will demo from the perspective of using Neo4j, these concepts are useful across the graph industry and the session will explicitly focus on the general principles.
