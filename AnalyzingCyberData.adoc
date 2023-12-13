@@ -1,13 +1,28 @@
-= TBD!! Cyber Sleuth: Finding Hidden Connections in Cyber Data
+= Cyber Sleuth: Finding Hidden Connections in Cyber Data
 
 == Alternate titles
 * ??
 
-== Elevator pitch (300 characters or less)
+== Tags
+* security
+* graph
+* data
+* analysis
 
+== Elevator pitch (300 characters or less)
+Prioritizing what data is truly important is mission-critical in the cyber world. In this session, we will get cyber data into a graph and use the power of relationships to uncover hidden connections. Join us to harness the power of graph databases to act upon critical data for security threats.
 
 == Short abstract
+There are so many bits that fight to occupy our time and attention. How do we know what to prioritize and how it impacts other things? This is mission-critical in the cyber world.
+
+In this session, we will walk through how to dump cyber data into a graph and use the power of relationships and accompanying tools to uncover hidden connections and patterns. Learn how to optimize the model for querying and access the data through queries, visualization, and applications. Join us to harness the power of graph databases to find and act upon critical data for security threats.
 
 == Abstract
+There are so many bits that fight to occupy our time and attention. How do we know what is critical to prioritize and how it impacts other things? This is true of our every day personal and professional lives, but is especially true in the cyber world.
+
+In this session, we will see how graph databases focus on the entities and the connections between them to make contextualizing data incredibly simple. We will walk through how to dump cyber data into a graph and use the power of relationships and accompanying tools to uncover hidden connections and patterns. Gathering tips and tricks will help us optimize the model for querying and access the data through queries, visualization, and applications.
+
+Join us to harness the power of graph databases to find and act upon critical data for security threats.
 
 == Notes to committee/motivation
+I've always been interested in cybersecurity, but it's hard to know where to start. I decided to explore relevant data using tools I know and love. Graphs have been used to do amazing things in cybersecurity, and I want to share a piece of that (and my learnings along the way) with this amazing community.
