@@ -1,0 +1,24 @@
+= AI-Enabled Apps: Practical Uses of AI in Applications
+
+== Alternate titles
+* Smart Apps for Smart Devs: Integrating AI in Practical Ways
+
+== Tags
+* genai
+* ai
+* spring
+* applications
+
+== Elevator pitch (300 characters or less)
+You want to incorporate artificial intelligence into your application, but don't know where to start. Are there other sensible ways to use AI besides a chatbot? This talk will look at practical ways to take advantage of AI in everyday applications and some steps you can take to get there.
+
+== Short abstract
+Are you exploring how to incorporate artificial intelligence in new business applications or interested in creating more value from existing ones? Maybe you're not sure where it makes sense or where cost outweighs the value. This talk will look at practical ways to take advantage of AI in everyday applications and some steps you can take to get there.
+
+== Abstract
+Are you exploring how to incorporate artificial intelligence in new business applications or interested in creating more value from existing ones? Maybe you're not sure where it makes sense or where cost outweighs the value. This talk will look at practical ways to take advantage of AI in everyday applications and some steps you can take to get there.
+
+The presenter will start by covering some of the basics of AI, including some terms and common architectures. Then, we'll look at some sensible approaches to incorporating AI into your applications. Finally, we will build our own AI-enabled application using SpringAI to truly understand the value it brings to the table.
+
+== Notes to committee/motivation
+Everyone is highly interested in learning AI and applying it to their applications. However, it is difficult to know where it makes sense and where it's just excitement over future possibilities. I hope that this talk will help developers understand how to use AI in practical ways now and give them some ideas on how to get started.
