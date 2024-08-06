@@ -1,0 +1,17 @@
+= Java's GenAI Era: Getting Spring AI and Neo4j Applications to Production
+
+== Alternate titles
+
+== Tags
+* genai
+* llm
+* java
+* developers
+
+== Abstract
+We all want to use GenAI to give ourselves superpowers, right? It might be fun to build these innovative applications, but how do we actually put them into production? What sorts of things do we need to think about or plan for?
+
+In this session, the presenters will build a quick RAG application using Spring AI and Neo4j, highlighting the differences from a traditional, non-AI approach. We will see how Spring AI extends all the things we know and love about the Spring ecosystem and how its history with Neo4j seamlessly blends into this GenAI era. Next, we'll talk deployment as we look at packaging, hosting, and steps for running our smart app. From gotchas to developer-friendly features, join us to simplify your next GenAI app's path to production!
+
+== Notes to committee/motivation
+Our goal for this session is to showcase Spring AI and how it blends in with tools developers are (hopefully) already familiar with - Spring, Java, and Neo4j. Then we want to focus how to deploy these new GenAI applications, what goes into the process and how it might be different or the same to traditional applications.

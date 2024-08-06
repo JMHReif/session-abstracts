@@ -1,7 +1,7 @@
 = Pass or Play: What does GenAI mean for the Java developer?
 
 == Alternate titles
-* ??
+* GenAI for the Java Developer: What You Need to Know
 
 == Tags
 * genai
@@ -10,17 +10,17 @@
 * developers
 
 == Elevator pitch (300 characters or less)
-GenAI, LLM, and other buzzwords are everywhere. Does/should a Java developer care? In this session, we'll explore how these technologies operate, see through live-coding how Java developers can utilize them, and determine whether they're worth the hype. Come see if you should pass or play on GenAI.
+You've been tasked with implementing or learning AI, but there's so much to know and not enough time. In this session, we will explore GenAI technologies and architectures, see how Java developers can utilize them, and focus on their real value. Come see how to play in the GenAI era.
 
 == Short abstract
-GenAI, LLM, and other buzzwords are everywhere. Does/should a Java developer care? In this session, we'll explore how these technologies operate and cover many of the technical terms that go along with them, such as hallucinations, grounding, and more.
+You've been tasked with implementing or learning AI, but there's so much to know and not enough time. 
 
-We will understand the abilities they can provide alongside some of the struggles they bring to the table. Live-code examples will show how Java developers can utilize GenAI and help you determine whether they're worth the hype. Come see if you should pass or play on GenAI.
+In this session, we'll explore how these technologies operate and look at some of the common application architectures. Live-code examples will show how Java developers can utilize GenAI and help you determine where they can be best applied. Come see how to play in the GenAI era.
 
 == Abstract
-GenAI, LLM, and other buzzwords are everywhere. The sea of acronyms can feel like (and sometimes actually are) a black box for the complex logic and processes that underpin them. Does/should a Java developer care?
+You've been tasked with implementing or learning AI, whether that includes LLMs, RAG, or MLOps. The sea of acronyms in this era of AI can feel like (and sometimes actually are) a black box for the complex logic and processes that underpin them. There's so much to learn and not enough time.
 
-In this session, we'll explore how these technologies operate and cover many of the technical terms that go along with them, such as hallucinations, grounding, and more. We will understand the abilities GenAI can provide to technical solutions alongside some of the struggles they bring, as well. Live-code examples will show how Java developers can utilize GenAI and help determine whether they are worth the hype. Come see if you should pass or play on GenAI.
+In this session, we'll explore how these technologies operate and the different practical ways GenAI is being used. We will explain common architectures for applications with GenAI, including RAG and GraphRAG. Live-code examples will show how Java developers can start using GenAI and help determine where they can be best applied. Come see how to play in the GenAI era.
 
 == Notes to committee/motivation
-It is difficult to tell what technologies are a passing trend and what is here to stay. GenAI and many of the accompanying technologies are being applied and are still being developed. It's hard for developers to understand the tangible benefits and drawbacks, as well as what it means for existing and future projects and business. This session aims to help developers sift through the weeds and better grasp what applies to them and how to get started.
+It's hard for developers to understand the tangible benefits and drawbacks, as well as what it means for existing and future projects and business. This session aims to help developers sift through the weeds and better grasp what applies to them and how to get started.
