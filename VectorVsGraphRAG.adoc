@@ -1,0 +1,18 @@
+= Vector and Graph RAG: Accuracy and Explainability in GenAI Applications
+
+== Alternate titles
+
+== Tags
+* genai
+* llm
+* vector
+* graph
+* rag
+
+== Abstract
+Accuracy and explainability are critical in GenAI applications. When information from AI-integrated solutions is inaccurate, it can impact business, people's health, financial decisions, and even legal policies, which causes cascading repercussions. Having the best data at the right time is vital.
+
+LLMs are not able to handle this on their own, but retrieval augmented generation (RAG) can help by providing curated data as context to an LLM, guiding it to an appropriate answer. This session will explore how vector and graph RAG address the shortcomings of LLMs, explaining their shared functionality as well as some ways they handle it differently. Finally, we will see how to build a GenAI application with RAG to see these concepts in action.
+
+== Notes to committee/motivation
+There are many solutions to the same problem, and it is difficult to know when to choose one over another and how/why they are different. This session will help attendees understand the differences between RAG solutions (two popular ones being vector and graph), and how to choose the best one (or a combination) for each situation.
