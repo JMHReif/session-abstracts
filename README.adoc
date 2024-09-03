@@ -17,6 +17,11 @@ Each session abstract is formatted as an Asciidoc document (.adoc extension), wh
 === Bio
 Jennifer Reif is a Developer Advocate at Neo4j, speaker, and blogger with an MS in CMIS. An avid developer and problem-solver, she has worked with many businesses and projects to organize and make sense of widespread data assets and leverage them for maximum business value. She has expertise in a variety of commercial and open source tools, and she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.
 
+=== Alternate Bio
+Jennifer Reif is a Developer Advocate at Neo4j, speaker, and blogger with an MS in CMIS. An avid developer and problem-solver, she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively. Jennifer writes frequently on her website https://jmhreif.com/[jmhreif.com^], tweets occasionally at https://twitter.com/JMHReif[@JMHReif^], and always publishes code to her https://github.com/JMHReif[JMHReif Github^]!
+
+Jennifer also has a https://youtube.com/playlist?list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&si=TiCwqOY5o-MrR5cj[YouTube presentation playlist^].
+
 === Photos
 * https://drive.google.com/file/d/1O5dz5mYIWHpjcmFZleyHtWIxMlo0uq51/view?usp=sharing[Click here to view/download headshot^]
 * https://drive.google.com/file/d/1i5XaKpkcmTnbtIFpgNXeANkev4N6ATlx/view?usp=sharing[Click here to view/download profile image^]
