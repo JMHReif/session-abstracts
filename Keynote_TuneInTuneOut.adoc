@@ -1,0 +1,16 @@
+= Tune In or Tune Out: How to Be Heard and When to Ignore the Noise
+
+== Alternate titles
+* How to Be Taken Seriously in an Unserious World
+
+== Tags
+* career
+* keynote
+* recognition
+* tech-industry
+
+== Abstract
+Ever feel like people diminish or don't fully recognize your contributions? No matter the reason, it can be frustrating and demotivating. How can you cut through the noise or decide when to mute it? In this session, the presenter will explore ways to be taken seriously in an unserious world - what to do when people marginalize your thoughts and ideas. We will discuss some approaches for making your voice heard when it counts, but also how to mute the noise when it doesn't matter. Improve your career and save your sanity by knowing when to tune in or tune out.
+
+== Notes to committee/motivation
+As someone who has dealt with imposter syndrome and feeling like my opinion isn't always valued, I wanted something to encourage other developers in similar situations and provide some ways to combat or handle these issues.

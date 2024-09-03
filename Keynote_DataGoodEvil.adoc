@@ -1,0 +1,19 @@
+= Interpreting Data: Wielding Data for Good and Evil in the AI Era
+
+== Alternate titles
+* Data Quest: The Fellowship of Tech in a World of Shadows and Light
+* The Hitchhiker's Guide to Data: Navigating the Digital Galaxy Without Losing Your Mind
+* Level Up! Wielding Data as Your Sword and Shield in the Quest for Innovation
+* The Machine's Dilemma: Navigating the Dual Nature of Data for Good and Evil
+
+== Tags
+* data
+* keynote
+* responsible-tech
+* data-ethics
+
+== Abstract
+Data is a powerful tool that permeates our everyday lives. As both users of data systems and market consumers, we know how data can be a superpower for good and evil. Increasing technology capabilities bring more opportunities to harness it for the benefit and destruction of society, further expanding in today's AI era. How can we ensure data is beneficial for business and still responsibly protected? In this session, we will explore ways data can be used to make the world a better place and potentially be used against us. We will discuss opportunities for us as technical data wards to wield it for good and how to recognize and combat misuse. Learn how to use data to make a positive impact on the world and protect yourself and others from its harmful effects.
+
+== Notes to committee/motivation
+I love data and databases, but we should also be aware of how to handle data responsibly. Technologists are in a unique position because we both build/operate data systems and also have our data harvested as consumers. Data ethics can have a very "doomsday" element, but I hope to present this serious topic in an encouraging and hopeful way.

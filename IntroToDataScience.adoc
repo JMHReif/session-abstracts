@@ -1,0 +1,25 @@
+= Intro to Data Science for Non-Data Scientists
+
+== Alternate titles
+
+
+== Tags
+* data-science
+* patterns
+* data
+* algorithms
+
+== Short abstract
+Data science is a fast-growing area of technology, especially in this age of AI. Many of us have not studied mathematical science topics, but we don't need to be data scientists to utilize its capabilities.
+
+This session will introduce the basics of data science, including data patterns, networks, and more. Walk away with data science skills and a better understanding of how to use the data around us.
+
+== Abstract
+Data science is a fast-growing area of technology, but many of us have not studied mathematical science topics. Especially in this age of AI, it permeates nearly all aspects of tech, but we don't need to be data scientists to utilize its capabilities. All of us can use algorithms and statistics concepts to improve our solutions and decisions.
+
+This session will introduce the basics of data science, including data patterns, networks, and more. We will look at algorithms from a logical standpoint and see how and why they are useful for understanding data structures.
+
+Walk away from this session with data science skills and a better understanding of how to use the data around us, and maybe even improve collaboration with data science colleagues.
+
+== Notes to committee/motivation
+Data science is a widely popular and powerful field, but it can be intimidating to those who have not studied mathematical science topics. This session will help attendees understand data science concepts from the average human's perspective and will help build their foundational knowledge of data patterns and structures.
