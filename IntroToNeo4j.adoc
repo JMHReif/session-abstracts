@@ -30,9 +30,3 @@ Join us to learn how graph databases are used to improve the data world and help
 Many developers are not yet familiar with graph technologies and how they are useful. This session will explore the best cases to use graph and what it can do for business and technical needs.
 
 Aims to provide context and some details for graph databases in general. While examples are based around Neo4j (company/product), we will focus on concepts that are applicable across many graph vendors and not limit discussion to Neo4j.
-
-== Speaker Bio
-Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver.
-She holds a Master's degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value.
-She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis!
-Her passion is finding ways to organize chaos and deliver software more effectively.

@@ -1,0 +1,33 @@
+= Buried Treasure: Discovering Hidden Gems in your Systems
+
+== Alternate titles
+* Do more with less: Extract more from your systems with connected data
+
+== Tags
+* intro
+* graph
+* data
+* database
+
+== Elevator Pitch (300 characters or less)
+Data underpins everything we do. In this session, see how to uncover hidden gems in your data. We'll cover the basics of graph databases and how to use them to improve your data quality and decision-making with live code. Come to this session to find the buried treasure beneath your feet!
+
+== Abstract
+From beautiful applications to intricate security systems, data underpins everything we do. No matter how perfect the code, garbage data produces garbage results. It might not be the shiniest part of the stack, but it can make or break its value.
+
+In this session, you'll hear from a data geek how exciting and vital data can be. We'll see how to extract more from your systems with connected data, exploring how to use graph databases to uncover hidden gems in your data and how to leverage them to improve your applications and systems. This session will cover the basics of graph databases, how to build applications with graphs, and how to use them to improve your data quality and decision-making. Then, see these concepts in action with live code and demos.
+
+Join us to learn how to extract more from what you have and find the buried treasure you didn't realize was beneath your feet!
+
+== Alternate Abstract
+It's no secret everyone wants us to do more with less, but refactoring code has its limits. The real treasure lies in the data we already have. It might not be the shiniest part of the stack, but beautiful systems aren't valuable without high-quality data to underpin them. 
+
+In this session, we'll see how to extract more from your systems with connected data by learning how graph databases work and how to integrate with existing systems. All of this will come to life with live code and demos.
+
+Come to this session to find the buried treasure in data beneath your feet!
+
+
+== Notes to committee/motivation
+Data is the lifeblood of our systems, but it's often overlooked. As someone who loves data, I want to show how/why data can be a powerful and intriguing part of any system. This session aims to show developers how to take advantage of data as a resource and get more value from what's already there. This session is a good fit for those who are new to graphs or want to know how to maximize data's value in their systems.
+Could be a regular session or a keynote.
+Could also add a section on integrating with AI applications.
