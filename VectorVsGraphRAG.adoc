@@ -1,6 +1,7 @@
-= Vector and Graph RAG: Accuracy and Explainability in GenAI Applications
+= Vector and GraphRAG: Accuracy and Explainability in GenAI Applications
 
 == Alternate titles
+* RAG: Accuracy and Explainability in GenAI Applications
 
 == Tags
 * genai

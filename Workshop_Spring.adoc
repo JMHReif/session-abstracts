@@ -1,0 +1,22 @@
+= Spring into the Future: Spring Boot, Data, AI, and more!
+
+== Alternate titles
+* ??
+
+== Formats
+* workshop, co-presenting with https://github.com/mkheck[Mark Heckler^]
+
+== Tags
+* intro
+* spring
+* data
+* ai
+* vector
+
+== Abstract
+The Spring ecosystem of projects is large, and each one plays its part in the suite of tools. In this workshop, the focus will be to get up and running quickly and easily with key pieces of the ecosystem. Unveil the "magic" behind the curtains of Spring Boot, integrate with various databases using Spring Data, and take it to the next level with Spring AI.
+
+Come to this workshop and learn to wield more of the power of Spring!
+
+== Notes to committee/motivation
+Spring is such a vast collection of projects that it can be difficult to know where to start or how to integrate more pieces. This workshop aims to start from the beginning, but quickly ramp up to incorporating popular projects, such as Spring Data and Spring AI.

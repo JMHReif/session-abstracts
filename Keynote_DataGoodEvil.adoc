@@ -15,5 +15,10 @@
 == Abstract
 Data is a powerful tool that permeates our everyday lives. As both users of data systems and market consumers, we know how data can be a superpower for good and evil. Increasing technology capabilities bring more opportunities to harness it for the benefit and destruction of society, further expanding in today's AI era. How can we ensure data is beneficial for business and still responsibly protected? In this session, we will explore ways data can be used to make the world a better place and potentially be used against us. We will discuss opportunities for us as technical data wards to wield it for good and how to recognize and combat misuse. Learn how to use data to make a positive impact on the world and protect yourself and others from its harmful effects.
 
+== Alternate abstract
+Data is a powerful tool that permeates our everyday lives. As both users of data systems and market consumers, we know how data can be a superpower for good and evil. Increasing technology capabilities bring more opportunities for benefit and destruction, further expanding in today's AI era. How can we balance these seemingly competing interests? And are the benefits worth the cost?
+
+In this session, we will explore ways data can be used to make the world a better place or be used against us. We will discuss technologies and tools that help us as developers wield it for good and recognize and combat misuse. Learn how to use data to make a positive impact on the world and set up safe practices for the future.
+
 == Notes to committee/motivation
 I love data and databases, but we should also be aware of how to handle data responsibly. Technologists are in a unique position because we both build/operate data systems and also have our data harvested as consumers. Data ethics can have a very "doomsday" element, but I hope to present this serious topic in an encouraging and hopeful way.
