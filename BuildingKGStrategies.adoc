@@ -1,0 +1,28 @@
+= Road to Better RAG: Strategies for GenAI-Ready GraphRAG
+
+== Alternate titles
+* Architecting GraphRAG Pipelines for Next-Gen AI Applications
+* From Graph Data to Generative Insight: Practical GraphRAG Strategies
+
+== Tags
+* genai
+* llm
+* graph
+* rag
+* data
+
+== Elevator pitch (300 characters or less)
+Learn how to construct smarter AI with GraphRAG by designing and optimize your knowledge graph and RAG pipeline for richer context and higher accuracy through practical, developer-friendly strategies.
+
+== Short abstract
+LLMs are powerful, but when paired with graphs, they deliver deeper context and smarter results. This session introduces practical strategies for designing GraphRAG pipelines that are tailored for your domain. You will learn how to structure your graph for retrieval, extract valuable knowledge, and avoid common pitfalls. Walk away with clear techniques to design and optimize your solution so your entire RAG pipeline delivers richer context, higher accuracy, and more reliable outcomes.
+
+== Abstract
+GraphRAG brings the best of both worlds into a unified approach by combining the reasoning of generative AI with the rich connections of graph databases to create advanced AI applications. But what does it take to build these solutions for the real world?
+
+This session dives into design patterns and strategies, from schema design for retrieval efficiency, to data extraction and resolution, to orchestrating AI pipelines with graph queries. We will also highlight common design patterns, pitfalls to avoid, and how to extend GraphRAG with tools, multi-agent systems, and domain-specific customization.
+
+You will walk away with practical strategies to design and optimize your solution so your entire RAG pipeline delivers richer context, higher accuracy, and more reliable results.
+
+== Notes to committee/motivation
+While demos of generative AI are exciting, developers often struggle with designing the technology and structuring data for optimal results. This session provides practical strategies for building GenAI-ready GraphRAG solutions, focusing on knowledge graph and pipeline design that attendees can apply in real-world projects.

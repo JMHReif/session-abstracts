@@ -26,7 +26,6 @@ In this session, we'll see how to extract more from your systems with connected 
 
 Come to this session to find the buried treasure in data beneath your feet!
 
-
 == Notes to committee/motivation
 Data is the lifeblood of our systems, but it's often overlooked. As someone who loves data, I want to show how/why data can be a powerful and intriguing part of any system. This session aims to show developers how to take advantage of data as a resource and get more value from what's already there. This session is a good fit for those who are new to graphs or want to know how to maximize data's value in their systems.
 Could be a regular session or a keynote.

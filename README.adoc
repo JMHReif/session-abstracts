@@ -7,7 +7,9 @@
 == Purpose
 In this repository are a list of session topics I am able to deliver.
 Session Formats:
-* Conference and meetup sessions for varying lengths between 30 and 60 minutes
+* Conference and meetup sessions for varying lengths (~30-60 minutes)
+* Keynote sessions for varying lengths (~30-60 minutes)
+* Workshop sessions for varying lengths (~1.5-4 hours)
 
 == Repository session formats
 Each session abstract is formatted as an Asciidoc document (.adoc extension), which can be opened in any plain text editor.
@@ -28,8 +30,7 @@ Jennifer also has a https://youtube.com/playlist?list=PLf8aIqYXdUo9Su_yALHM2Z4CP
 
 === Contact
 * Github: https://github.com/JMHReif[JMHReif^]
-* Twitter: https://twitter.com/JMHReif[@JMHReif^]
+* X: https://x.com/JMHReif[@JMHReif^]
 * LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
 * Website: https://jmhreif.com/[jmhreif.com^]
-* Medium blog: https://medium.com/@jennifer-reif[Jennifer Reif^]
-* Email: mailto:jennifer@thehecklers.org[jennifer@thehecklers.org^]
+// * Email: mailto:jennifer@thehecklers.org[jennifer@thehecklers.org^]
