@@ -1,0 +1,29 @@
+= Teaching Java in the Age of AI: From Syntax to Systems Thinking
+
+== Alternate titles
+
+* What Should We Teach When AI Can Write the Code?
+* Beyond Boilerplate: Helping Developers Understand Systems
+* Learning Java When AI Is Your Pair Programmer
+
+== Tags
+
+* java
+* software-design
+* education
+* ai
+* learning
+
+== Abstract
+
+AI can generate classes, methods, and even unit tests in seconds, allowing devs to press the "easy button" and feel accomplished. Yet what happens when these devs then struggle to understand the structure, how to evaluate AI-generated code, and how to confidently modify software when requirements change? The productivity gains disappear.
+
+Reviewing my own education while writing a beginner-friendly Java book, I realized that traditional approaches to foundational topics often focus on terminology and definitions rather than the problems those concepts were created to solve. Instead of starting with memorized rules and keywords, we started with cookies, houses, thermostats, and other everyday scenarios that naturally led readers toward those solutions.
+
+In this session, I will share the principles behind the book, examples that transformed complex concepts into relatable experiences, and lessons learned about teaching programming in a world where AI can write the code but can't build understanding. You will leave with practical techniques for accelerating your own self-development, explaining difficult technical topics clearly, and creating content that remains valuable even when code generation is only a prompt away.
+
+== Notes to committee/motivation
+
+This session combines software engineering learning in the era of AI-assisted development, examining how AI changes the skills that educators, mentors, and technical leaders should prioritize. It is particularly relevant for anyone who regularly explain technical concepts to others.
+
+The examples are concrete and technical, drawing from topics that are familiar to technical audiences. The goal is to provide attendees with practical approaches to skip concept memorization and toward understanding design decisions.

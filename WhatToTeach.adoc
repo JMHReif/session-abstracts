@@ -1,0 +1,41 @@
+= What Should We Teach When AI Can Write the Code?
+
+== Alternate titles
+
+* Teaching Programming When AI Can Generate the Answers
+* Beyond Syntax: Teaching Software Design in the Age of AI
+* From Prompts to Principles: Teaching Developers in the AI Era
+* The Skills AI Can't Learn for You
+
+== Tags
+
+* java
+* education
+* ai
+* developer-advocacy
+* software-design
+
+== Abstract
+
+AI can generate Java classes, unit tests, and entire applications in seconds. But generating code and understanding software are not the same thing.
+
+While writing a beginner-focused Java book, I found myself asking a simple question: if learners can ask AI to generate syntax on demand, a test suite, or a mocking example, what knowledge is still worth teaching?
+
+The answer isn't more syntax. It is understanding why software is designed the way it is. The best learning results from building actual solutions for solving real-world problems. The challenge becomes replicating that in a learning environment.
+
+In this session, I'll share lessons from building a Java curriculum centered on everyday problems rather than memorizing terminology. We'll explore how scenarios like modeling gift boxes and smart-home devices can naturally lead learners toward concepts like abstraction, encapsulation, interfaces, dependency injection, and mocking.
+
+Along the way, you will see practical examples, teaching techniques, and surprising insights from developing educational content in an era where code generation is increasingly accessible. Whether you're an educator, mentor, developer advocate, or team lead, you'll leave with ideas for helping developers build understanding that lasts beyond the next AI prompt.
+
+== Notes to committee/motivation
+
+AI is changing how developers learn, but many conference discussions focus on tools rather than teaching. This session explores what remains important when code generation is readily available and how educators can adapt their approaches accordingly.
+
+The content is grounded in real examples and lessons learned while developing a beginner-friendly Java book. Attendees will leave with practical techniques they can apply immediately in classrooms, workshops, onboarding programs, documentation, developer advocacy, and mentoring environments.
+
+The talk is accessible to a broad audience and does not require prior experience with AI tools.
+
+////
+Frame of reference:
+- like J.K. Rowling only introduced components of magical world when needed (portkey, horcrux, etc)
+////
