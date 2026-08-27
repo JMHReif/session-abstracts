@@ -1,0 +1,26 @@
+
+= Diagnose First, Delegate Second: Fast-Tracking the Junior-to-Senior Leap
+ 
+== Alternate titles
+* Senior as a Junior: Skipping the Slow Years on Purpose
+* No More Osmosis: Building Senior Instincts Faster in the AI Era
+ 
+== Tags
+* java
+* career
+* ai
+* debugging
+* developers
+ 
+== Abstract
+A couple of years ago, something clicked. I could suddenly follow a bug through an application: where the logic lived, how data moved between components, why one piece breaking took down another somewhere else. I still cannot point to the exact moment it happened, but I can point to a couple of habits that were quietly running underneath. That is worth digging into right now, because the junior developer market isn't disappearing so much as changing shape. Software development is starting to reward exactly the kind of thinking that used to take years of ambient exposure to build.
+ 
+In this session, we will look at what skills are actually driving development today: AI-supervision skills, systems thinking, and specialization, not just raw coding speed. Then we will get concrete about building those skills on purpose instead of waiting years for incidents to teach them. The centerpiece is a debugging habit worth naming: diagnose first, delegate second. Instead of handing a bug straight to an AI coding tool, we will form a hypothesis about where the problem lives and how the data is flowing, then use the tool to confirm or refute that theory, all live in a real Java application. We will also talk through specialization and how to decide where to go deep instead of staying broad.
+ 
+Come away with a repeatable debugging habit you can start using immediately and a clearer picture of which skills are worth deliberately practicing if you want to compress years of career growth into months.
+ 
+== Short abstract
+The developer market didn't disappear. It changed shape, and it now rewards AI-supervision and systems thinking skills over raw coding knowledge. This session names a debugging habit: diagnose first, delegate second, then walks through both live on a real Java application.
+ 
+== Notes to committee/motivation
+This talk comes directly out of my own transition from feeling junior to not, trying to understand what actually built the instincts that transition depended on. I want to hand developers something more actionable than "get more experience," since that's not available at the same pace it used to be. My hope is this gives developers (early-career and beyond) a concrete practice they can use to build longevity.

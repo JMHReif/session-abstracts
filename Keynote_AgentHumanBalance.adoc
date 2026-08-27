@@ -1,0 +1,25 @@
+= Still Holding the Load: What "Balance" Actually Means with AI Agents
+
+== Alternate titles
+* The New Mental Load: Finding Balance Between You and Your AI Agents
+* From Work/Life to Agent/Human: Rethinking Balance in the Age of AI
+
+== Tags
+* ai-agents
+* mental-load
+* balance
+* keynote
+* career
+
+== Abstract
+Work/life balance was never really about finding a perfect, permanent split and settling into it. Instead, it is an ongoing negotiation that tips one way, then the other, depending on the week, the project, the crisis. Agent/human balance turns out to operate the same way. There's no fixed ratio of what to hand off to AI and what to keep for yourself that. Once "found", it doesn't stay right forever. Underneath that shifting mix is something more specific than a task list: mental load, the invisible work of tracking, remembering, and deciding, separate from actually doing the tasks themselves. AI agents promise to lighten that load, but handing off a task and handing off the worry about that task turn out to be two very different things.
+
+This session looks at where that gap shows up, in both our personal and professional lives, using real (and sometimes uncomfortable) examples of getting the balance wrong in both directions. Whether offloading too much and trusting blindly, or holding on too tightly to things that were perfectly safe to let go of, imperfection is constant. Along the way, we will look at what the research says about automation complacency, skill atrophy, and the surprising cognitive cost of oversight itself, and ask what genuine balance actually requires instead of just adding more AI or more review.
+
+Come away with a practical framework for deciding what to hand off and what to hold onto, weighing factors like reversibility, verifiability, and stakes so that balance becomes something you engineer deliberately for your own systems, not something you reactively fix.
+
+== Short abstract
+Work/life balance has a new layer: mental load, and AI agents are reshaping it in ways we don't expect. This talk digs into where we could be over-trusting AI, where we might be under-using it, and why oversight itself has its own cost.
+
+== Notes to committee/motivation
+This talk grew out of noticing how unevenly I actually trust AI in my own life. Humans over-trust it in some places, stubbornly avoid it in others, often without a good reason either way. I want to bring that same honest self-audit to a room full of people quietly doing the same thing, and offer a more useful way to think about balance than "use more AI" or "review everything twice." This is intended as a broad, largely non-technical keynote rather than a deep-dive technical session, so it should travel well to varied audiences and opening/closing conference slots.

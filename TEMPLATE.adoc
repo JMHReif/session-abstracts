@@ -1,0 +1,25 @@
+= Title
+
+== Alternate titles
+* Option 1
+* Option 2
+
+== Tags
+* tag-1
+* tag-2
+* tag-3
+* tag-4
+* tag-5
+
+== Abstract
+Write a few paragraphs about the topic here. Include a sensible hook statement and explanation of the problem.
+
+Then discuss what we will cover in the session, technologies involved.
+
+Finally, close with what the audience will walk away with and any final CTA.
+
+== Short abstract
+Keep this very short. Should be something like an elevator pitch. Some conferences want 300 characters, but something that is modular should work well for varying event requirements.
+
+== Notes to committee/motivation
+Include internal notes to program committee about this session. Try to ensure non-sales/marketing focus and my own interest in curiosity and learning.

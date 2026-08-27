@@ -1,0 +1,25 @@
+= Building a Case Against AI-Generated Code
+ 
+== Alternate titles
+* Interrogating AI: A Detective's Guide to Secure Java Code
+* Guilty Until Proven Secure: Investigating AI-Generated Code in Java
+ 
+== Tags
+* java
+* security
+* ai
+* appsec
+* semgrep
+ 
+== Abstract
+I have always loved a good hacking story where someone painstakingly builds a case against a suspect, NCIS-style. Firewalls and login forms never scratched that itch for me. But 2026 handed developers an entirely new case file: AI-generated code is shipping into production faster than anyone can review it, and the evidence is piling up. CVEs attributed to AI-generated code multiplied by six in just the first few months of the year.
+ 
+This session treats AI-generated code the way a good investigator treats a new suspect: helpful, maybe, but not innocent until proven otherwise. For this talk, we built (and deliberately broke) a personal finance app, the kind of project where getting something wrong carries real, easy-to-feel stakes. We will build a case against a feature written by AI, laying out where the likely weak points are, then bring in tools like Semgrep and OWASP Dependency-Check to gather the evidence. Along the way, we will talk about what AI-generated code tends to get wrong, and why the usual advice to just review it carefully collapses under a deadline.
+ 
+Come away with a repeatable process for interrogating AI-generated code before it merges with steps like what to check, which tools can help, and how to build the habit into a normal Java workflow instead of relying on a careful read-through that never actually happens.
+ 
+== Short abstract
+AI-generated code is shipping faster than anyone can review it, and the vulnerabilities are piling up. This session treats AI-written Java code like a suspect, not a colleague, building a real case against it live using tools like Semgrep and OWASP Dependency-Check.
+ 
+== Notes to committee/motivation
+I have always been drawn to the investigative side of security - building a case and following the evidence. But the traditional entry points, like logins and firewalls, never grabbed me the same way. AI-generated code turns out to be the challenge I have been looking for: a genuinely new, fast-moving problem that rewards exactly that kind of thinking. My goal is to give developers a concrete, repeatable process for scrutinizing AI-generated code, rather than focus on concepts.

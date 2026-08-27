@@ -1,0 +1,26 @@
+= Where the Human Belongs: Lessons from Building an Agentic Night Sky App in Java
+
+== Alternate titles
+* Human-in-the-Loop, Human-on-the-Loop: Deciding Where AI Should Drive
+* Judgment Calls: Building a Java App That Knows When to Ask for Help
+* From Human-in-the-Loop to Human-on-the-Loop: A Java Developer's Field Guide
+
+== Tags
+* java
+* agentic-ai
+* spring-ai
+* human-in-the-loop
+* neo4j
+
+== Abstract
+"Human-in-the-loop" has become the go-to answer, and it's easy to add a review button to check the box and move on. But as agentic systems take on more real execution, a more realistic model is where people set direction and review at key checkpoints while agents handle the rest ("human-on-the-loop"). For Java developers building the next wave of AI-assisted systems, the real skill isn't wiring up a framework, but deciding, step by step, where an agent should drive, where it should assist, and where a human has to own the call outright.
+
+This session works through that decision live, using a personal night-sky viewing planner in Java that pulls together astronomy data, light pollution, weather, and meteor shower events for a given place and time. We will build the pipeline and walk it stage by stage, weighing where AI should take the wheel and where it shouldn't, using the app's cloud-cover forecasting, plain-language reporting, and event lookups as real examples along the way. A recommendation feature ties it together, showing just how different the same code can behave depending on where you draw that line.
+
+Attendees will leave with a portable checklist for making this call on their own systems, asking questions to decide where AI should drive and where it should ride along. The goal is a framework you can apply to your own codebase on the flight home, not just a "yes, use human-in-the-loop" takeaway.
+
+== Short abstract
+Human-in-the-loop is already outdated advice. Using a real Java night-sky viewing planner app, we will walk a working AI pipeline step by step and decide, live, where AI should drive, assist, or stay hands-off entirely.
+
+== Notes to committee/motivation
+Human-in-the-loop gets treated as a solved problem once a review step exists somewhere in the workflow, but deciding where that step actually belongs is still mostly guesswork for most teams. This session grew out of a personal project to work through those decisions myself, on a real pipeline I built from scratch, before trying to explain them to anyone else. My goal is to leave developers with a repeatable way to make that call on their own systems.

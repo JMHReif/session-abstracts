@@ -1,0 +1,25 @@
+= Read Between the Lines: What an Agentic Java App Actually Looks Like
+
+== Alternate titles
+* One Tool Call Doesn't Make an Agent: Building Real Agentic Workflows in Java
+* Choose Your Own Adventure: Multi-Step Agents in Java
+
+== Tags
+* java
+* agentic-ai
+* langchain4j
+* neo4j
+* ai-agents
+
+== Abstract
+Everyone seems to be building agentic AI systems that go well beyond a single request and response with multi-step workflows, autonomous decision-making, and entire processes handed off to an agent. It is an exciting picture, but feels heavy on dream and light on detail. So what does that actually look like once you sit down at your desk to build agentic Java solutions?
+
+In this session, we will build a real agentic Java application using LangChain4j, tackling a problem plenty of avid readers are probably familiar with: finding a book for this month's reading challenge, then hunting the library catalog and searching digital reading apps for a copy. We will walk through how the agent plans across multiple steps, calls out to different sources along the way, and decides what to do next, including when to stop and ask for help instead of guessing.
+
+Come see what it actually takes to move from a single tool call to a genuine agentic workflow and leave with the building blocks to write the next chapter of your own Java projects.
+
+== Short abstract
+Calling a tool doesn't make an app agentic. We will build a real multi-step agentic Java app with LangChain4j that hunts down books for a reading challenge across a library catalog and reading apps to see what genuine agentic work actually looks like in Java.
+ 
+== Notes to committee/motivation
+Agentic feels overloaded right now, and it is easy for developers to get confused on how to integrate agents into real solutions. This session comes out of building a tool for my own reading habit and wanting to understand, hands-on, what an agentic app does. My hope is developers leave with a concrete mental model for agentic architecture in Java, rather than another moon-shot goal.

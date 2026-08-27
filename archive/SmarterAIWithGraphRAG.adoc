@@ -1,0 +1,21 @@
+= Giving LLMs a Map: Building Smarter AI with GraphRAG
+
+== Alternate titles
+* ??
+
+== Tags
+* graph
+* python
+* genai
+* vector
+* rag
+
+== Abstract
+AI is powerful, but without the right data and retrieval strategies, results can quickly break down. This session will explore how GraphRAG combines knowledge graphs with retrieval-augmented generation to deliver more accurate, context-rich AI applications. 
+
+Through live demos and code, we will walk through building an AI solution end to end using Neo4j and Python. Learn how to construct knowledge graphs from unstructured and structured data, make key design decisions around schema and chunking, and implement multiple retrieval strategies—including vector search, vector plus Cypher, and text-to-Cypher approaches. Then, pull all these skills together in a conversational agent built with Neo4j and LangChain. 
+
+Come to this session and leave with practical techniques for designing knowledge graphs, choosing the right retriever for a use case, and applying GraphRAG patterns you can adapt to your own GenAI projects.
+
+== Notes to committee/motivation
+Knowing how to get started is often the hardest part. This session aims to provide an overview of knowledge graph creation, as well as the different types of retrieval for RAG, and finally show where it all leads to agents.
